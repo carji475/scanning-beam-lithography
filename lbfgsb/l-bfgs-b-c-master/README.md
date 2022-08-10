@@ -1,4 +1,4 @@
-This folder contains the wrapper by [Stephen Becker] https://github.com/stephenbeckr/L-BFGS-B-C
+This folder contains the wrapper by [Stephen Becker](https://github.com/stephenbeckr/L-BFGS-B-C)
 
 # L-BFGS-B-C
 
