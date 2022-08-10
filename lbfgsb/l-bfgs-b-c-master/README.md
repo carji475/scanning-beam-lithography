@@ -1,4 +1,7 @@
+This folder contains the wrapper by [Stephen Becker] https://github.com/stephenbeckr/L-BFGS-B-C
+
 # L-BFGS-B-C
+
 L-BFGS-B, converted from Fortran to C with Matlab wrapper
 
 This is a C version of the well-known [L-BFGS-B code](http://users.eecs.northwestern.edu/~nocedal/lbfgsb.html), version 3.0.
